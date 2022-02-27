@@ -206,5 +206,4 @@ function popQuiz() {
     // FINAL TEXT?
     alert(`Well, Thank you for playing, ${username}. Your score was ${score}. We hope you had fun and look forward to learning more about you.`);
     console.log("Quiz complete.");
-//}
-//popQuiz();
+

@@ -1,0 +1,23 @@
+/*<style> {*/
+.main {
+    color: rgb(5, 5, 5)
+    }
+
+.body { 
+    background-color: rgb(15, 184, 206);
+    }
+
+    /*    
+    .column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+        }
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+    */
+
+/*</style>*/
