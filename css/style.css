@@ -1,0 +1,74 @@
+*{box-sizing: border-box;}
+
+body {
+    background-image: url("https://www.maxpixel.net/static/photo/1x/Abstract-Illustration-Line-Geometric-Background-2462431.jpg");
+    /*background-position: 50% 50% */
+    background-color:aliceblue;
+    background-size:auto
+    }
+
+p { background-color: rgb(224, 229, 230);
+    border-width: 5px;
+    border-color:black;
+    padding: 10px;
+    margin: 20px;
+    width: 80%;
+    text-align:left;
+    border-radius: 20px;
+    }
+
+p:last-child{
+    border-width:5px;
+    border-color:rgb(99, 96, 96)
+}
+
+h1 {color:rgb(0, 0, 0);
+    font-size: 3rem;
+    padding: 10px;
+    margin: 20px;
+    width: 80%;
+    border-width: 5px;
+    background-color: rgb(100, 100, 100);
+    border-radius: 20px;
+    }
+
+h2 {color:blue;
+    font-size: 2rem;
+    padding: 10px;
+    margin: 20px;
+    width: 80%;
+    border-radius: 20px;
+    }
+    
+img {
+    border-radius: 180px;
+    border-width: 5px;
+    padding: 10px;
+    margin: 20px;
+    }
+
+.photo {float:left;
+        padding: 10px;
+        margin: 20px;
+        }
+
+.sidebar {float:right;
+        width: 40%
+        }
+
+.comicrelief { 
+    height: 20%;
+    width: 80%;
+    color: rgb(15, 184, 206);
+    background-color: rgb(54, 54, 54);
+    border-width: 5px;
+    border-color:rgb(97, 96, 96);
+    border-style:dashed;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 0px;
+    clear:left;
+    }
+.footer {
+    text-align: center;
+}
