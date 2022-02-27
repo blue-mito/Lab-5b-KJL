@@ -1,5 +1,5 @@
 'use strict';
-/*
+
 let username = prompt('Greetings, user. Do you have a preferred name?');
 alert('Welcome: '+ username + '.');
 console.log("User Information Collected.");
@@ -208,4 +208,3 @@ function popQuiz() {
     console.log("Quiz complete.");
 //}
 //popQuiz();
-*/
